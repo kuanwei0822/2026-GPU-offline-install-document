@@ -1,5 +1,3 @@
-# 2026-GPU-offline-install-document
-
 # GPU 離線安裝自動化工作手冊
 
 ## 專案背景
@@ -38,10 +36,6 @@ Container Toolkit
 - RHEL 系列：Rocky Linux、AlmaLinux、CentOS、RHEL
 - Debian 系列：Ubuntu、Debian
 - 其他：SUSE、Oracle Linux
----
-## Claude 工作流程圖
-
-![Claude 工作流程圖](docs/workflow.svg)
 
 ---
 
